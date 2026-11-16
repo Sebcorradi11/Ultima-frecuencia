@@ -1,0 +1,29 @@
+Plano del Nivel 1-1 (fila de arriba = y 23; columna izquierda = x 0)
+# Base  a Ámbar  c Cian  G compuerta entrada  X compuerta final
+P jugador  N Pip  R antena de relevo  o chatarra  T Cinta de Rosa  B batería
+D dron Chispa Ámbar  d dron Chispa Cian  K activador del jefe  J La Bobina  S antena de salida
+
+                                                                                                                
+                                                                                                                
+                                                                                                                
+#                                                                         ##############################       #
+#                                                                         #                            #       #
+#                                                 T                       #                            #       #
+#                                                aaa                      #                            #       #
+#                                                                         #                            #       #
+#                                           ccc       ccc                 #                            #       #
+#                                                                         #                            #       #
+#                                     ####                                #                            #       #
+#                                   o ###                                 #                            #       #
+#                                   cc###                                 #                            #       #
+#                                o    ###                                 #                            #       #
+#                                aa   ###                                 #         cccc               #       #
+#                             o       ###                                 #                            #       #
+#       No                    cc      ###                            d    #   aaaa        aaaa         #       #
+#                ooo       o          ###           Do                    G                            X       #
+#    o    ## o             aa         ### o                   o o   oo    G                            X       #
+# P   ##  ##           R              ###                  R     B      R G K                     J    X   S   #
+###############ccccccc#########################ccccccccccc#########aaaaa########################################
+###############       #########################           #########     ########################################
+###############       #########################           #########     ########################################
+###############       #########################           #########     ########################################

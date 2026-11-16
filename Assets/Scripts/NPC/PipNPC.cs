@@ -104,6 +104,13 @@ namespace UltimaFrecuencia
                     break;
                 case Estado.Guiando:
                 {
+                    // Si el jugador recogió la cinta antes de que Pip llegue, el objeto ya no existe.
+                    if (puntoSecreto == null)
+                    {
+                        finSenalando = 0f;
+                        EstadoActual = Estado.Volviendo;
+                        break;
+                    }
                     Vector2 destino = (Vector2)puntoSecreto.position + Vector2.up * 1.2f;
                     if (Volar(destino))
                     {
