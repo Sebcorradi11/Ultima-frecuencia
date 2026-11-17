@@ -1421,7 +1421,7 @@ namespace UltimaFrecuencia.EditorTools
             Anclar(marcoCreditos.rectTransform, centro, centro, new Vector2(0f, -150f), new Vector2(1300f, 620f));
             TextMeshProUGUI textoCreditos = Texto("TextoCreditos", panelCreditos,
                 "<b>ÚLTIMA FRECUENCIA</b>\n" +
-                "Integrante 1: [nombre]  ·  Integrante 2: [nombre]\n" +
+                "Sebastiano Corradi  ·  Juan Martin Quiroz Solla\n" +
                 "Cátedra: Diseño y Desarrollo de Videojuegos (AE4)\n\n" +
                 "Motor: Unity 6 (URP 2D, Tilemaps, Input System, TextMeshPro)\n" +
                 "Arte pixel art, efectos y música: generados por código para este proyecto\n" +

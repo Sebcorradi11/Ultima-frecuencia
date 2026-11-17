@@ -1045,7 +1045,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<b>\xDALTIMA FRECUENCIA</b>\nIntegrante 1: [nombre]  \xB7  Integrante 2: [nombre]\nC\xE1tedra: Dise\xF1o y Desarrollo de Videojuegos (AE4)\n\nMotor: Unity 6 (URP 2D, Tilemaps, Input System, TextMeshPro)\nArte pixel art, efectos y m\xFAsica: generados por c\xF3digo para este proyecto\nFuente: Liberation Sans (SIL OFL)"
+  m_text: "<b>\xDALTIMA FRECUENCIA</b>\nSebastiano Corradi  \xB7  Juan Martin Quiroz Solla\nC\xE1tedra: Dise\xF1o y Desarrollo de Videojuegos (AE4)\n\nMotor: Unity 6 (URP 2D, Tilemaps, Input System, TextMeshPro)\nArte pixel art, efectos y m\xFAsica: generados por c\xF3digo para este proyecto\nFuente: Liberation Sans (SIL OFL)"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
